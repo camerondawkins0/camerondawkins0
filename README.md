@@ -5,13 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/abundant_cam" target="blank"><img src="https://img.shields.io/twitter/follow/abundant_cam?logo=twitter&style=for-the-badge" alt="abundant_cam" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Google Cloud Platform**
 
-- 💬 Ask me about **Pandas**
-
-- 📫 How to reach me **dawkins.cameron@gmail.com**
-
-- ⚡ Fun fact **Used to be a top ranked sprinter**
+- ⚡ Fun fact **Vinegar and Isopropyl Alcohol can clean just about anything**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

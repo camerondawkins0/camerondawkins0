@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/abundant_cam" target="blank"><img src="https://img.shields.io/twitter/follow/abundant_cam?logo=twitter&style=for-the-badge" alt="abundant_cam" /></a> </p>
 
-- 🌱 I’m currently learning **Google Cloud Platform**
+- 🌱 I’m currently learning **Web Development with Streamlit!**
 
 - ⚡ Fun fact **Vinegar and Isopropyl Alcohol can clean just about anything**
 
